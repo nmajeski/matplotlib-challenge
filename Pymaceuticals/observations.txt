@@ -1,0 +1,3 @@
+1. The two drugs that reduced the tumor volume were Capomulin and Ramicane.
+2. The drug that had the smallest survival rate after 45 days was Propriva.
+3. Although Propriva had the smallest survival rate at the 45th day, it was the only drug where metastatic sites decreased during treatment (during days 40 and 45).
